@@ -1,4 +1,6 @@
 # **PyTorch Image Classifier**
+[![DOI](https://zenodo.org/badge/327105374.svg)](https://zenodo.org/badge/latestdoi/327105374)
+
 Contacts: [g.nodjoumi@jacobs-university.de](mailto:g.nodjoumi@jacobs-university.de)
 
 A simple image classifier demo-notebook based on resnet50, to be further developed and used to filter very large dataset before labeling for object detection / image segmentation
