@@ -34,6 +34,5 @@ Dataset must be organized according the following structure:
     - test (used to simulate real-world data)
 - Data distributions for sub-datasets are shown in pie charts
 - Train and valid indexes are used to load images and ingest into training routine
-- Evaluate the trained mode using valid indexes and compute losses and accuracy for each class
-- Evaluate the trained model using test indexes (unseen data) and compute losses and accuracy for each class
-- Check if test indexes have been during training
+- Test index is used to load unseen data
+- Test data are reandomly picked and predicted
